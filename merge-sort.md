@@ -10,4 +10,6 @@
 
 ## 2)Big-O gösterimini yazınız.
 
-  O(nLogn)
+O(nLogn)
+
+[www.patika.dev](https://www.patika.dev/)
