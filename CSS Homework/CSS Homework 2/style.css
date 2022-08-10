@@ -1,0 +1,26 @@
+.logo{ 
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+.grey-box{
+    background-color: #EEEEEE;
+    width: 90%;
+    margin: auto;
+}
+.cards{
+    width: 90%;
+    margin: auto;
+    height: 85px;
+}
+.card{
+    float: left;
+    height: 100%;
+    font-size: 14px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: small;
+}
